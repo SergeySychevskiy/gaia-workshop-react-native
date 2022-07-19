@@ -1368,20 +1368,60 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@stryberventures/gaia-react-native.button@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.button/-/gaia-react-native.button-0.0.2.tgz#f75be2f316416c717e841612d5c6ae1fb5bc5fa3"
-  integrity sha512-gMiOVo2uKnXV7ImEuBT2Vg4AsMenKuSJ4Z5KCa934wfDPhdQB+wtftxV0Bz2YWWCp6HYjepvaWlk4iMu6Wnkkw==
+"@stryberventures/gaia-react-native.button@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.button/-/gaia-react-native.button-0.0.3.tgz#dee7982d049f03d4e348644e160b49e5e44143b7"
+  integrity sha512-CUqp9S1IYV+mNbMH5jPMA02PEQ1MGxse29gQ3QSzXerc/bd5nz9f1vfPLktQCPbqoN0NfUcsyt0fbRAf0mC7BA==
 
-"@stryberventures/gaia-react-native.form@^0.0.1":
+"@stryberventures/gaia-react-native.checkbox@^0.0.1":
   version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.form/-/gaia-react-native.form-0.0.1.tgz#9c1697018591e51854e664b391a94f3074fc4726"
-  integrity sha512-p7BGoJ4en/5l6U++9QiWgNlnN7bZ0S10n9yGP38LOKra3lh1FW9cDlblSOhii14jZX0yBINgpTsOkJ3hm6yB9Q==
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.checkbox/-/gaia-react-native.checkbox-0.0.1.tgz#e49605d0e85e8506384dd050c20cabea366d57c6"
+  integrity sha512-/42AQpjeJYFAEgCGWMfi5t1odk56fPxCRZjGsImJvmz9xiDxTgK7uUaBjByGKg7cKk5NVMdTeLJRc0KjqxoGpw==
 
-"@stryberventures/gaia-react-native.theme@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.theme/-/gaia-react-native.theme-0.0.2.tgz#775aa03f1179b2a685e1811c25e7d00ed6597043"
-  integrity sha512-6Im3GH+bpkaOZihl7sZ54T8kGMTe9xQv0GAQcWbRkn/m6Avc8hVU3uba9DbKDWewuD77hg/9D+ZrrpVrueUkKQ==
+"@stryberventures/gaia-react-native.chip@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.chip/-/gaia-react-native.chip-0.0.1.tgz#648aae55422d23c62fa9f4786a04d2e9764164e1"
+  integrity sha512-tUlItJssKLuAuWQ9UHGGPEkWglfjPNqD9n2BVr61n7BFk7EqCDeZ2FBzh0pfJ52uP0fvTycui/bQrJbX9pbtJg==
+
+"@stryberventures/gaia-react-native.form@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.form/-/gaia-react-native.form-0.0.3.tgz#2e1f316b43255a3b8950e5f76ceb1ba68ddd885e"
+  integrity sha512-ICbXt/UODfSRPlzX5X07dxoKCb2nhqrKoQlxDGzHveJEqbRfmalS+EjjR5utCj48VQ4NR3G6P5ktABQ3SvPeGw==
+
+"@stryberventures/gaia-react-native.input@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.input/-/gaia-react-native.input-0.0.5.tgz#9f77fac44f034e68f77200f5c6f768e5b12423bb"
+  integrity sha512-DrZXaLKAKg2EksLZcifSmeWcLZKCI7w2IDEc2I5k8fzGPmzpkg1rZAkOCnJf+VzvUt3HzFXZTj4Y5/lRCVEHkA==
+
+"@stryberventures/gaia-react-native.number-input@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.number-input/-/gaia-react-native.number-input-0.0.1.tgz#fc8503e78447dc8136bcce7e5b13bcd39398d21c"
+  integrity sha512-iknGyR1oPAFjjayRn9fWjdgNqeTknjiIT2SdgDpls6spNmu3dru3cPki8plqj7nnHbyfxk7uUFLbXJldq6or/Q==
+
+"@stryberventures/gaia-react-native.password-input@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.password-input/-/gaia-react-native.password-input-0.0.1.tgz#6b92e15fb034e289d8253b0ee3ebfe899ea7080f"
+  integrity sha512-dz3fnNkWn1jPsH0ch4Z5bJnYgZk589w6BqNfSwF8otAWzg0G1gly7XpxzG+fjkWTtWeUkNv51IaCMMaIbvEFew==
+
+"@stryberventures/gaia-react-native.select@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.select/-/gaia-react-native.select-0.0.1.tgz#b2e61450bd7eb7a3e65f103aa482d49c49b557b8"
+  integrity sha512-zKCAlAsY8Ro3sF6KRWPAnYGdBDA0ZSHtosmX7m/ULWj5ZQoyD9e7e246QZxFqpj0zAr1iRAegMCxImXfrC5+QQ==
+
+"@stryberventures/gaia-react-native.slider@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.slider/-/gaia-react-native.slider-0.0.1.tgz#ba9336170f301284e969dd97882d07d3d86fb184"
+  integrity sha512-dqci+qpzinlSQNur2MsZXwy/d2weG6ZT0NTV9ELtOZ4Ry5L9enWvrqSpxB7NFTVwjkJhcH1ULIf9VCgyAYwE2Q==
+
+"@stryberventures/gaia-react-native.switch@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.switch/-/gaia-react-native.switch-0.0.1.tgz#61cb31a035c2dda3b8fffb48fa67cf0b44e7fa93"
+  integrity sha512-KqU+8HeDpz5Iedpiaxk8pq4gDhpQlQ2cGg4FxqwlKVN7HiAPQQjEsZj2rsE7h/ItIBq2wrfhsv9I+63JLgkm3Q==
+
+"@stryberventures/gaia-react-native.theme@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@stryberventures/gaia-react-native.theme/-/gaia-react-native.theme-0.0.4.tgz#f72f24be68b4ba6aba1b8c38d8f8db4eeee9593e"
+  integrity sha512-SVy7eIqajMoqj7qui4gHIjRQH1caG0ebl/PeMTmNb9NrN7b885SM828YZS0E/j6cmB1WCytC0zeuLvgiJMB/Cw==
 
 "@stryberventures/gaia-react-native.toggle-input@^0.0.3":
   version "0.0.3"
