@@ -1,9 +1,9 @@
 import React from 'react';
 import {SafeAreaView, ScrollView, Text} from 'react-native';
-import getStyles from './styles';
+import {useStyles} from './styles';
 
 const LogIn = () => {
-  const styles = getStyles();
+  const styles = useStyles();
 
   return (
     <SafeAreaView>

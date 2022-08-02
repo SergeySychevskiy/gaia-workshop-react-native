@@ -1,9 +1,7 @@
-import {StyleSheet} from 'react-native';
+import {createUseStyles} from '@stryberventures/gaia-react-native.theme';
 
-const getStyles = () =>
-  StyleSheet.create({
-    text: {
-      marginTop: 10,
-    },
-  });
-export default getStyles;
+export const useStyles = createUseStyles(theme => ({
+  text: {
+    color: theme.text.primary,
+  },
+}));
